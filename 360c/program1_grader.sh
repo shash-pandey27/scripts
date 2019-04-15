@@ -1,4 +1,7 @@
 #!/usr/bin/env bash
+
+# Made by Shashwat Pandey on February 18th, 2019 for UT EE 360C - Algorithms taught by Christine Julien
+# While some of the code is inspired thanks to Stack Overflow, please don't use it without my permission or claim it as your own
 inputDirectory="../ProvidedInputs"
 expectedDirectory="../ExpectedOutputs"
 
